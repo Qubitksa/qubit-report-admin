@@ -2,7 +2,7 @@ import React from 'react'
 import classNames from 'classnames'
 
 
-/*import {
+import {
   CAvatar,
   CButton,
   CButtonGroup,
@@ -390,6 +390,6 @@ const Dashboard = () => {
       </CRow>
     </>
   )
-}*/
+}
 
 export default Dashboard
