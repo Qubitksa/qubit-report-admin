@@ -1,7 +1,8 @@
 import React from 'react'
 import classNames from 'classnames'
 
-import {
+
+/*import {
   CAvatar,
   CButton,
   CButtonGroup,
@@ -206,6 +207,13 @@ const Dashboard = () => {
               </CButtonGroup>
             </CCol>
           </CRow>
+            <CRow>
+  <CCol sm=5>
+  <iframe title="Program Dashboard" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiZWI1ZmE1MDgtYTdiNS00ODhhLWIyZmUtZWNjZmVmYTcwNWIxIiwidCI6Ijg0M2ZjZjIxLTFkMjUtNGI0Ny04N2JkLTlmYjRhOWU2OTFkNSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+  </CCol> 
+            </CRow>
+
+
           <MainChart />
         </CCardBody>
         <CCardFooter>
@@ -382,6 +390,6 @@ const Dashboard = () => {
       </CRow>
     </>
   )
-}
+}*/
 
 export default Dashboard
