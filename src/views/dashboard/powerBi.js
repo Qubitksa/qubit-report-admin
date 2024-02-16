@@ -6,7 +6,7 @@ function PowerBi() {
       <iframe
         width="860"
         height="484"
-        src="https://www.youtube.com/embed/aL27fX5kv9U"
+        src="https://app.powerbi.com/view?r=eyJrIjoiZWI1ZmE1MDgtYTdiNS00ODhhLWIyZmUtZWNjZmVmYTcwNWIxIiwidCI6Ijg0M2ZjZjIxLTFkMjUtNGI0Ny04N2JkLTlmYjRhOWU2OTFkNSIsImMiOjl9" 
         title="Introduction To WiseGPT"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
