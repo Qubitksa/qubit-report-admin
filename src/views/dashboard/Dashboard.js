@@ -54,6 +54,7 @@ import avatar6 from 'src/assets/images/avatars/6.jpg'
 import WidgetsBrand from '../widgets/WidgetsBrand'
 import WidgetsDropdown from '../widgets/WidgetsDropdown'
 import MainChart from './MainChart'
+import PowerBi from './powerBi'
 
 const Dashboard = () => {
   const progressExample = [
@@ -207,13 +208,7 @@ const Dashboard = () => {
               </CButtonGroup>
             </CCol>
           </CRow>
-            <CRow>
-  <CCol sm=5>
-  <iframe title="Program Dashboard" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiZWI1ZmE1MDgtYTdiNS00ODhhLWIyZmUtZWNjZmVmYTcwNWIxIiwidCI6Ijg0M2ZjZjIxLTFkMjUtNGI0Ny04N2JkLTlmYjRhOWU2OTFkNSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-  </CCol> 
-            </CRow>
-
-
+          <PowerBi />
           <MainChart />
         </CCardBody>
         <CCardFooter>
